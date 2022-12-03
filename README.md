@@ -9,7 +9,7 @@
 Clone the project and access the folder.
 
 ```bash
-$ https://github.com/diaspd/
+$ git clone https://github.com/diaspd/figma-tokens.git
 
 # Install the dependencies
 $ npm install
