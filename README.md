@@ -35,7 +35,7 @@ This project was developed with the following technologies:
 <br></br>
 
 ## 🔖 Layout
-- [desing tokens - Figma](https://www.figma.com/file/jMS3IzcoWVcXLFn6i3AD1g/Figma-for-devs?node-id=8%3A15&t=WdgETcQzY1R4jc4T-0)
+- [Desing tokens - Figma](https://www.figma.com/file/jMS3IzcoWVcXLFn6i3AD1g/Figma-for-devs?node-id=8%3A15&t=WdgETcQzY1R4jc4T-0)
 
 
 <br></br>
