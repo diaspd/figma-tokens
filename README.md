@@ -5,8 +5,8 @@
 <br></br>
 
 <div diplay="flex" flex-direction="row">
-  <img src="colors.png" width="500px" height="500px"/> 
-  <img src="project.png" width="500px" height="500px"/> 
+  <img src="colors.png" width="400px" height="400px"/> 
+  <img src="project.png" width="400px" height="400px"/> 
 </div>
 
 ## 🚀 Getting started
