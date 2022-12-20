@@ -4,6 +4,8 @@
 
 <br></br>
 
+<img src="colors.png" /> 
+
 ## 🚀 Getting started
 
 Clone the project and access the folder.
