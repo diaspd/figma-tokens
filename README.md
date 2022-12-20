@@ -4,7 +4,7 @@
 
 <br></br>
 
-<img src="colors.png" /> 
+<img src="colors.png" width="500px" height="500px"/> <img src="project.png" width="500px" height="500px"/> 
 
 ## 🚀 Getting started
 
