@@ -5,7 +5,7 @@
 <br></br>
 
 <div diplay="flex" flex-direction="row">
-  <img src="colors.png" width="450px" height="450px"/> 
+  <img src="colors.png" width="450px" height="450px" margin-left="5px" /> 
   <img src="project.png" width="450px" height="450px" margin-left="5px" /> 
 </div>
 
