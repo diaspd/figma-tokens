@@ -30,7 +30,7 @@ This project was developed with the following technologies:
 
 
 ## 📄 Project
-💰 .
+💰 Project to help developers and designers to import colors from figma to code.
 
 <br></br>
 
