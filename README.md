@@ -4,9 +4,9 @@
 
 <br></br>
 
-<div diplay="flex" flex-direction="row">
-  <img src="colors.png" width="450px" height="450px" margin-left="5px" /> 
-  <img src="project.png" width="450px" height="450px" margin-left="5px" /> 
+<div diplay="flex" flex-direction="row" align-items="center">
+  <img src="colors.png" width="450px" height="450px"/> 
+  <img src="project.png" width="450px" height="450px"/> 
 </div>
 
 ## 🚀 Getting started
