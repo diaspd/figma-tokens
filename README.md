@@ -4,7 +4,10 @@
 
 <br></br>
 
-<img src="colors.png" width="500px" height="500px"/> <img src="project.png" width="500px" height="500px"/> 
+<div diplay="flex" flex-direction="row">
+  <img src="colors.png" width="500px" height="500px"/> 
+  <img src="project.png" width="500px" height="500px"/> 
+</div>
 
 ## 🚀 Getting started
 
