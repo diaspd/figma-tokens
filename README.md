@@ -5,8 +5,8 @@
 <br></br>
 
 <div>
-  <img src="colors.png" width="430px" height="400px"/> 
-  <img src="project.png" width="430px" height="400px"/> 
+  <img src="colors.png" width="420px" height="400px"/> 
+  <img src="project.png" width="420px" height="400px"/> 
 </div>
 
 ## 🚀 Getting started
