@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 29 Nov 2022 20:36:40 GMT
+ * Generated on Sat, 18 Feb 2023 17:35:21 GMT
  */
 
 module.exports = {
@@ -8,6 +8,7 @@ module.exports = {
   "Sizes4": 16,
   "Sizes8": 32,
   "Sizes16": 64,
+  "Sizes32": 128,
   "ColorWhite": "#ffffff",
   "ColorGray200": "#c1c1c4",
   "ColorGray500": "#50505c",
