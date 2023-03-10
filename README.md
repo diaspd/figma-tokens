@@ -33,6 +33,7 @@ This project was developed with the following technologies:
 - Java Script
 - Style Dictionary
 
+<br></br>
 
 ## 📄 Project
 💰 Project to help developers and designers to import colors and sizes from figma to code.
