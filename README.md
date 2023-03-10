@@ -2,6 +2,12 @@
   Automatization of design tokens
 </h1>
 
+<p align="center">
+  <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
+</p>
+
 <br></br>
 
 <div>
@@ -25,6 +31,8 @@ $ npm run build
 
 `To export the tokens from figma use the plugin "Design Tokens" and send by Url to the repo you want ex: https://api.github.com/repos/diaspd/figma-tokens/dispatches, and then use an access token generate in "developer settings" in github`
 
+<br></br>
+
 ## 💻 Technologies
 
 This project was developed with the following technologies:
@@ -33,7 +41,7 @@ This project was developed with the following technologies:
 - Java Script
 - Style Dictionary
 
-<br></br>
+</br>
 
 ## 📄 Project
 💰 Project to help developers and designers to import colors and sizes from figma to code.
