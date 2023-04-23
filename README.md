@@ -8,7 +8,7 @@
   <a href="#-Layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br></br>
+</br>
 
 <div>
   <img src="colors.png" width="410px" height="400px"/> 
