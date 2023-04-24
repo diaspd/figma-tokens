@@ -43,11 +43,11 @@ send by Url to the repo you want ex:
 ## 💻 Technologies
 
 This project was developed with the following technologies:
-
+<b>
 - Figma
 - Java Script
 - Style Dictionary
-
+</b>
 </br>
 
 ## 📄 Project
