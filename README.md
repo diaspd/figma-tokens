@@ -32,10 +32,9 @@ $ npm run build
 </br>
 
 ## Setting the app
-To export the tokens from figma use the plugin "Design Tokens"
-
-```
+To export the tokens from figma use the plugin ``Design Tokens`` </br>
 send by Url to the repo you want ex:
+```
 - https://api.github.com/repos/diaspd/figma-tokens/dispatches
 ```
 `Then use an access token generate in "developer settings" in github`
