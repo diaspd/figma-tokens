@@ -50,6 +50,7 @@ This project was developed with the following technologies:
 - Java Script
 - Style Dictionary
 </b>
+
 </br>
 
 ## 📄 Project
