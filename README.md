@@ -29,6 +29,8 @@ $ npm run build
 
 ```
 
+</br>
+
 ## Setting the app
 To export the tokens from figma use the plugin "Design Tokens"
 
