@@ -25,6 +25,7 @@ $ git clone https://github.com/diaspd/figma-tokens.git
 # Install the dependencies
 $ npm install
 
+# run the project
 $ npm run build
 
 ```
